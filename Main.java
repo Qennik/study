@@ -19,12 +19,13 @@ public class Main {
         boolean g = true;
         boolean m = false;
         char h = 'H';
+        String x = "Переменная с текстом"
 
-//        firstMethod();
-//        method2(g, m);
-//        method3();
-//        method4(g);
-//        method7();
+        firstMethod();
+        method2(g, m);
+        method3();
+        method4(g);
+        method7();
         method8();
 
     }
