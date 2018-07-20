@@ -12,6 +12,7 @@ public class Main {
     changeArray();
         System.out.println();
     fillDiagonal();
+//        measureArray();
     }
 
     public static void invertArray () {
@@ -59,7 +60,28 @@ public class Main {
             }
         }
         System.out.print( Arrays.deepToString(arr));
+
     }
+
+//    public static void measureArray (){
+//        int[] arr = {48, 32, 5,8,49, 54, -6, 2, 11};
+//        for(int i = 0; i<arr.length; i++){
+//            for(int j = 0; arr[i]>arr[j]; j++){
+//                if(arr[i]>=arr[arr.length])
+//                {
+//                    System.out.println(arr[i]);
+//                }
+//
+//
+//                }
+//
+
+
+
+//            }
+//        }
+
+
 
 
 }
