@@ -54,7 +54,7 @@ public class Main {
                         }
 
                     }
-                    for (int cross = 0; cross < 16 - trueword.length(); cross++) {
+                    for (int cross = 0; cross < 15 - trueword.length(); cross++) {
                         System.out.print("#");
                     }
                     System.out.println();
